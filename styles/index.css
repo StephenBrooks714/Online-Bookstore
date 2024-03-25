@@ -53,9 +53,20 @@ header {
         grid-template-columns: auto;
         grid-area: auto;
     }
+    .card {
+        border: 1px solid grey;
+        padding: 22px;
+        margin: 14px;
+        max-width: 350px;
+    }
 }
 .col {
     margin: 25px;
+}
+.card {
+    border: 1px solid grey;
+    padding: 22px;
+    margin: 14px;
 }
 a.btn-orange {
     text-decoration: none;
