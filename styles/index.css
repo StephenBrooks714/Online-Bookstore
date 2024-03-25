@@ -2,6 +2,7 @@
 body {
     margin: 0;
     padding: 0;
+    background-color: #f0e8e8;
     font-family: "Montserrat", sans-serif;
     font-optical-sizing: auto;
     font-weight: 600;
@@ -65,6 +66,7 @@ header {
 }
 .card {
     border: 1px solid grey;
+    background-color: #f4f4f4;
     padding: 25px;
     margin: 14px;
 }
