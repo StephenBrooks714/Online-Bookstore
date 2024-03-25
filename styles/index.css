@@ -65,8 +65,14 @@ header {
 }
 .card {
     border: 1px solid grey;
-    padding: 22px;
+    padding: 25px;
     margin: 14px;
+}
+h2, h3, p {
+    font-weight: 400;
+}
+strong {
+    color: orangered;
 }
 a.btn-orange {
     text-decoration: none;
